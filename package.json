@@ -1,7 +1,7 @@
 {
   "name": "cmp-deep-dive",
   "version": "0.0.0",
-  "scripts": {
+  "scripts": { 
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
