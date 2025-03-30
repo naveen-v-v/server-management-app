@@ -18,4 +18,4 @@ import { DashboardItemComponent } from './dashboard/dashboard-item/dashboard-ite
   ],
   templateUrl: './app.component.html',
 })
-export class AppComponent { }
+export class AppComponent {}
