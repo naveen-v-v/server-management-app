@@ -1,6 +1,4 @@
-<span>
-  <ng-content />
-</span>
-<span class="icon">
-  <ng-content select="icon" />
-</span>
+<p class="control">
+  <label>{{ label() }}</label>
+  <ng-content select="input, textarea" />
+</p>
